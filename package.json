@@ -17,7 +17,6 @@
   "bugs": {
     "url": "https://github.com/Sourya608/corona/issues"
   },
-  "homepage": "https://github.com/Sourya608/corona#readme",
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
