@@ -1,0 +1,32 @@
+:root {
+    --size: 2rem;
+}
+
+.background
+{
+    background-image: linear-gradient(rgb(83, 83, 83), rgb(214, 214, 214));
+    height: 100%;
+    width: 100%;
+    /* background-size: cover; */
+}
+.list img
+{
+    height: 150px;
+    width: 150px;
+    margin-right: var(--size);
+    border: solid black 2px;
+    margin-left: var(--size);
+}
+.list
+{
+    display: flex;
+    flex-direction: row;
+    /* text-align: center; */
+    justify-content: center;
+    align-items: center;
+}
+h1
+{
+    padding: var(--size);
+    text-align: center;
+}
