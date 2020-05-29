@@ -1,0 +1,23 @@
+{
+  "name": "CoronaVirus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build Corona.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sourya608/corona.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sourya608/corona/issues"
+  },
+  "homepage": "https://github.com/Sourya608/corona#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
