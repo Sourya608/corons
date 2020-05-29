@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d build Corona.html"
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -13,6 +13,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "https://sourya608.github.io/corona",
   "bugs": {
     "url": "https://github.com/Sourya608/corona/issues"
   },
